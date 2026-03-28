@@ -6,6 +6,9 @@ Builder. Systems thinker. NYC.
 
 - Shipping small software products
 - Exploring AI product development
-- Deploying everything I build
+- Deploying most of what I build
 
 [Latest project →](https://pacman-pearl.vercel.app)
+
+Earlier Projects:
+www.getback.ai
