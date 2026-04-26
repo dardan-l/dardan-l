@@ -10,5 +10,6 @@ Builder. Systems thinker. NYC.
 
 [Latest project →](https://pacman-pearl.vercel.app)
 
-Earlier Projects:
-www.getback.ai
+**Earlier projects:**
+
+- [GetBack](https://www.joingetback.com) — find and claim the class action settlements you're owed
