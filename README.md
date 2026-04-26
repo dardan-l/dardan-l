@@ -1,6 +1,6 @@
 ### Dardan Lajqi
 
-Technical program leader at Datadog, building small software products with a bias toward shipped, inspectable systems.
+Building small software products.
 
 I use this GitHub as a public workbench for focused side projects: automation, pragmatic web apps, and AI-assisted product development. The throughline is operational: clear problem, lightweight architecture, deployable implementation, and enough instrumentation to know when it breaks.
 
